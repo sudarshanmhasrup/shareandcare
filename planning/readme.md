@@ -13,3 +13,5 @@ My proposed solution for this project includes the development of a primary mobi
 - `Customer App`: A mobile application for users to book and manage tickets. 
 - `Admin Panel`: A centralized platform to oversee and manage all services.
 - `Driver App`: A dedicated app for drivers to scan and verify bus tickets when passengers board.
+
+<img src="https://raw.githubusercontent.com/sudarshanmhasrup/shareandcare/refs/heads/main/planning/assets/project_planning_image_01.png" />
